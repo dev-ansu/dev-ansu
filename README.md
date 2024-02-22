@@ -35,7 +35,7 @@ Contatos:
 
 Estudando agora:
 <div>    
-<img title="Laravel" alt="Laravel" lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" />
+<img lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />   
 </div>
 
           
