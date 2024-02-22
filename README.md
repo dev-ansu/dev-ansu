@@ -33,8 +33,8 @@ Contatos:
 </br>
 </br>
 
-Estudando agora:
 <div>    
+<h4>Estudando agora:</h4>
 <img width="100" height="100" lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />   
 </div>
 
