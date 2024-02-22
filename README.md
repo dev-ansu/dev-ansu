@@ -35,7 +35,7 @@ Contatos:
 
 Estudando agora:
 <div>    
-<img width="40" height="40" lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />   
+<img width="100" height="100" lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />   
 </div>
 
           
