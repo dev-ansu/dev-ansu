@@ -23,10 +23,10 @@ Minhas Stacks:
 Contatos:
 <div style="display:flex;gap:2px">
 <a href="https://www.linkedin.com/in/anderson-souza-20b732112?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-          <img lazy src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img lazy src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/oproprioansu/">
-          <img lazy src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img lazy src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </div>
 </br>
@@ -35,7 +35,7 @@ Contatos:
 
 Estudando agora:
 <div>    
-<img lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />   
+<img width="40" height="40" lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />   
 </div>
 
           
