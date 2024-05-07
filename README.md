@@ -17,7 +17,7 @@ Minhas Stacks:
 
 ### 🔭 Atualmente estou trabalhando no Aurosoft. Um sistema de gestão escolar que estou desenvolvendo para a empresa na qual trabalho para que eles possam parar de pagar mensalidade num software que é paia demais.
 
-### 🌱 No momento estou me graduando em Análise e desenvolvimento de Sistemas pela Unifanor Wyden e pós-graduando em Ciência de Dados pela Faculdade Prepara, além de já ser graduado em Gestão de TI pela UniDomBosco.
+### 🌱 No momento estou me graduando em Análise e desenvolvimento de Sistemas pela Unifanor Wyden, além de já ser graduado em Gestão de TI pela UniDomBosco.
 
 ### ⚡ __Não sou chegado em TypeScript. Quer tipar vá pro Java!__
 
