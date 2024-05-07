@@ -9,7 +9,7 @@ Minhas Stacks:
 <img lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 <img lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />          
 <img lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  width="40" height="40" />
-<img width="40" height="40" lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
+<img width="50" height="50" lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
 </div>
 
 # Sobre mim
