@@ -39,7 +39,10 @@ Contatos:
 <img width="100" height="100" lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />   
 </div>
 
-          
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-ansu&show_icons=true&theme=radical)
 
-          
+# PROJETOS
+- FilaFacil: https://github.com/dev-ansu/filafacil
+- ValidationJS: https://github.com/ge-asdf/ValidationJS/
+- BlogJS: https://github.com/GE-ASDF/blog
+- Currículo digital: https://github.com/GE-ASDF/ge-asdf.github.io
