@@ -19,7 +19,7 @@ Minhas Stacks:
 
 ### 🌱 No momento estou me graduando em Análise e desenvolvimento de Sistemas pela Unifanor Wyden, além de já ser graduado em Gestão de TI pela UniDomBosco.
 
-### ⚡ __Não sou chegado em TypeScript. Quer tipar vá pro Java!__
+### ⚡ __Tudo com TypeScript fica melhor!__
 
 Contatos:
 <div style="display:flex;gap:2px">
@@ -34,10 +34,7 @@ Contatos:
 </br>
 </br>
 
-<div>    
-<h4>Estudando agora:</h4>
-<img width="100" height="100" lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />   
-</div>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-ansu&show_icons=true&theme=radical)
 
