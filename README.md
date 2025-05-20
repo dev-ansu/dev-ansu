@@ -13,7 +13,7 @@ Minhas Stacks:
 </div>
 
 # Sobre mim
-### Eu sou o Anderson, um desenvolvedor web full-stack. Minhas habilidades abrangem HTML, CSS, JavaScript, ReactJS, NodeJS, PHP (Xodó de todos) e Laravel. Sempre em busca de soluções inovadoras, estou comprometido em criar experiências web funcionais. Além das habilidades em programação, possuo também em manutenção de computadores, redes de computadores, segurança da informação e entre outras.
+### Eu sou o Anderson, um desenvolvedor web full-stack. Minhas habilidades abrangem HTML, CSS, JavaScript, ReactJS, NodeJS, PHP (Xodó de todos), NextJS, Prisma, PostgreSQL, MySQL e Laravel. Sempre em busca de soluções inovadoras, estou comprometido em criar experiências web funcionais. Além das habilidades em programação, possuo também em manutenção de computadores, redes de computadores, segurança da informação e entre outras.
 
 ### 🔭 Atualmente estou trabalhando no Aurosoft. Um sistema de gestão escolar que estou desenvolvendo para a empresa na qual trabalho para que eles possam parar de pagar mensalidade num software que é paia demais.
 
